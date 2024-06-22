@@ -27,7 +27,6 @@ Pipeline3: using common steps with lemmatizer and n-gram=2
 Pipeline4: using common steps without lemmatizer and n-gram=2
 Pipeline5: using common steps without lemmatizer and n-gram=3
 Pipeline6: using common steps with lemmatizer and n-gram=3
-![image](https://github.com/mohammad-awad-ds/Natural-Language-Processing-NLP/assets/64756947/16c4c0af-291a-4f34-9d07-d8555a715f1c)
 
 ![image](https://github.com/mohammad-awad-ds/Natural-Language-Processing-NLP/assets/64756947/9e88b966-07b4-4d78-a21c-497bdee84f3e)
 
