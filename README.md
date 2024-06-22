@@ -1,5 +1,5 @@
 # Arabic language hatespeech detection in YouTube comments and Twitter posts using Spark, NLP, and Docker.
-[nlpport.pptx](https://github.com/user-attachments/files/15938385/nlpport.pptx)
+![Slide1](https://github.com/mohammad-awad-ds/NLP-and-Spark-Project-for-Hatespeech-Detection/assets/64756947/01e5f3ea-8e58-4a74-893e-e054ab199200)
 
 ## Project Overview
 This project aims to detect hate speech in a large dataset of Arabic text data gathered from YouTube and Twitter, using Natural Language Processing (NLP) techniques and Apache Spark on a docker container for reproducible big data processing. The project utilizes a versatile skill set, including data preprocessing, machine learning, and data visualization, to build an effective hate speech detection model. This project assumes new records to be streamed into the trained model.
