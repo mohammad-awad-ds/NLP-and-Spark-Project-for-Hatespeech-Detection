@@ -21,12 +21,12 @@ Hate speech detection is a crucial task in moderating online content to create a
 Six experiments were performed on the SVM, NB, LR and Random Forest models to find the best pipeline for processing production stream data. The common steps between the pipelines are tokenizer, stopwords removal, TF-IDF, and string indexer. 
 
 The pipelines differ in using lemmatizer and n-grams, where we have the following.
-Pipeline1: using common steps and lemmatizer without n-grams
-Pipeline2: using common steps without both lemmatizer and n-grams
-Pipeline3: using common steps with lemmatizer and n-gram=2
-Pipeline4: using common steps without lemmatizer and n-gram=2
-Pipeline5: using common steps without lemmatizer and n-gram=3
-Pipeline6: using common steps with lemmatizer and n-gram=3
+-Pipeline1: using common steps and lemmatizer without n-grams
+-Pipeline2: using common steps without both lemmatizer and n-grams
+-Pipeline3: using common steps with lemmatizer and n-gram=2
+-Pipeline4: using common steps without lemmatizer and n-gram=2
+-Pipeline5: using common steps without lemmatizer and n-gram=3
+-Pipeline6: using common steps with lemmatizer and n-gram=3
 
 ![image](https://github.com/mohammad-awad-ds/Natural-Language-Processing-NLP/assets/64756947/9e88b966-07b4-4d78-a21c-497bdee84f3e)
 
